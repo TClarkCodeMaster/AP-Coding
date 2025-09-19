@@ -1,9 +1,9 @@
-numberList = [1, 2, 38, 48, 821]
-value= 48
+unorderedList = [23, 600, 4, 91, 49]
+value = 600
 
-def numberThing(numberList, value):
-    for x in numberList:
-        print(x)
-        if x ==48:
-            break
-numberThing(numberList,value)
+def unorderedThing(unorderedList, value):
+    unorderedList = [23, 600, 4, 91, 49]
+
+unorderedList.sort(reverse=False)
+
+unorderedThing(unorderedList,value)
