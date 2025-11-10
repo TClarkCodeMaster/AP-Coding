@@ -183,3 +183,10 @@ def weeklyPlayerStats(year, position, week=None):
     stats = stats[ordered]
 
     return stats
+
+# Most touchdowns
+# J. Cook
+# Highest passing yards
+
+# most rushing yards
+# Derek Henry
